@@ -1,0 +1,17 @@
+import Prelude hiding ( catch )
+import Control.Exception
+import System.IO
+import Control.Monad
+
+main2::String->IO (Double)
+main2 x = do 
+      let y=read x::Double
+      return (y)
+main=do
+    let 
+        exHandler::ErrorCall-> IO ()
+        exHandler e=return []
+    x<-getLine    
+    d<-catch (sequence [main2 x]) exHandler
+    print (show d)
+        

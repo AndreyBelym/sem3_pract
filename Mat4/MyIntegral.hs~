@@ -1,0 +1,17 @@
+module MyIntegral where
+
+rectIntegral::(Double->Double)->(Double,Double)->Double->Double
+rectIntegral f (a,b) n=sum (map f [a+h/2,a+3*h/2..b-h/2])*h
+                        where
+                            h=(b-a)/n
+
+lastWhenEps::[Double]->Double->Double                            
+lastWhenEps (x:xs) eps |abs(x-head xs)>eps = lastWhenEps (xs) eps
+                       |otherwise = head xs
+
+rectIntegrate::(Double->Double)->(Double,Double)->Double->Double                           
+rectIntegrate f (a,b) eps = lastWhenEps (map (rectIntegral f (a,b)) (map (\x->2^x) [n0,n0+1..])) eps
+                             where 
+                                n0=4
+f x=x/(1+x^2)
+

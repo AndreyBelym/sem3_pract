@@ -1,0 +1,13 @@
+module Euler where
+f' k p x y=k/x^2-p*y^2::Double
+euler::(Double->Double)->[Double]->Double->[Double]
+euler f' xs y0=euler' where  
+    euler'=y0:zipWith getNewValue euler' derivat
+        where
+            getNewValue y (y',h)=y+y'*h
+            derivat = zip (derivatives xs) (deltas xs)
+            deltas []=[]
+            deltas (x:[])=[]
+            deltas (x0:x1:xs)=x1-x0:deltas(x1:xs)
+            derivatives xs=zipWith f' xs euler'
+            

@@ -1,0 +1,26 @@
+from math import floor,cos,sin,sqrt
+from mat1 import solvesys 
+def approx_func(n,x):
+    if n%2:
+        return sin((n//2+1)*x)
+    else:
+        return cos((n//2)*x)
+        
+def func(x):
+    return x**4+3*x-1
+    
+def make_matrix(x,y,n):
+    a=[[0 for j in range (0,n+2)] for i in range (0,n+1)]
+    for i in range (0,n+1):
+        for j in range (0,n+1):
+            for k in range(0,len(x)):
+                a[i][j]+=approx_func(i,x[k])*approx_func(j,x[k])
+    j=n+1            
+    for i in range (0,n+1):
+        for k in range(0,len(x)):
+            a[i][j]+=approx_func(i,x[k])*y[k]
+    return a
+            
+def make_approx_poly(x,y,n,e):
+    a=make_matrix(x,y,n)
+    return solvesys(a,e,False)

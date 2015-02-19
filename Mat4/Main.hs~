@@ -1,0 +1,26 @@
+module Main where
+rectIntegral::(Double->Double)->(Double,Double)->Double->Double
+rectIntegral f (a,b) n=sum (map f [a+h/2,a+3*h/2..b-h/2])*h
+                        where
+                            h=(b-a)/n
+lastWhenEps::[Double]->Double->Double                            
+lastWhenEps (x:xs) eps |abs(x-head xs)>eps = lastWhenEps (xs) eps
+                       |otherwise = head xs
+rectIntegrate::(Double->Double)->(Double,Double)->Double->Double                           
+rectIntegrate f (a,b) eps = lastWhenEps (map (rectIntegral f (a,b)) (map (\x->2^x) [n0,n0+1..])) eps
+                             where 
+                                n0=8
+f x=x/(1+x^2)
+main::IO ()
+main = do
+    putStrLn $ "Введите a: "
+    raw_a<-getLine
+    putStrLn $ "Введите b: "
+    raw_b<-getLine
+    putStrLn $ "Введите eps: "
+    raw_eps<-getLine
+    let 
+        a=read raw_a;b=read raw_b;eps=read raw_eps
+        res=rectIntegrate f (a,b) eps
+    putStrLn $ "Результат: "
+    print res

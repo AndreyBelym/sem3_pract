@@ -1,0 +1,494 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.10.8)  10 OCT 2011 11:09
+entering extended mode
+**lab1.tex
+(C:\Users\Администратор\Desktop\TSU\Mat1\lab1.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+(C:\Users\Администратор\Desktop\TSU\Mat1\template.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\layout.sty"
+Package: layout 2000/09/25 v1.2c Show layout parameters
+\oneinch=\count87
+\cnt@paperwidth=\count88
+\cnt@paperheight=\count89
+\cnt@hoffset=\count90
+\cnt@voffset=\count91
+\cnt@textheight=\count92
+\cnt@textwidth=\count93
+\cnt@topmargin=\count94
+\cnt@oddsidemargin=\count95
+\cnt@evensidemargin=\count96
+\cnt@headheight=\count97
+\cnt@headsep=\count98
+\cnt@marginparsep=\count99
+\cnt@marginparwidth=\count100
+\cnt@marginparpush=\count101
+\cnt@footskip=\count102
+\fheight=\count103
+\ref@top=\count104
+\ref@hoffset=\count105
+\ref@voffset=\count106
+\ref@head=\count107
+\ref@body=\count108
+\ref@foot=\count109
+\ref@margin=\count110
+\ref@marginwidth=\count111
+\ref@marginpar=\count112
+\Interval=\count113
+\ExtraYPos=\count114
+\PositionX=\count115
+\PositionY=\count116
+\ArrowLength=\count117
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count118
+\Gm@cntv=\count119
+\c@Gm@tempcnt=\count120
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+
+(C:\ProgramData\MiKTeX\2.9\tex\latex\unicode\utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(C:\ProgramData\MiKTeX\2.9\tex\latex\unicode\ucs.sty
+Package: ucs 2004/10/17 UCS: Unicode input support
+
+(C:\ProgramData\MiKTeX\2.9\tex\latex\unicode\data\uni-global.def
+File: uni-global.def 2004/10/17 UCS: Unicode global data
+)
+\uc@secondtry=\count121
+\uc@combtoks=\toks18
+\uc@combtoksb=\toks19
+\uc@temptokena=\toks20
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(C:\ProgramData\MiKTeX\2.9\tex\latex\cyrillic\t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+)
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 100.
+
+
+(C:\ProgramData\MiKTeX\2.9\tex\latex\cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\russianb.ldf"
+Language: russianb 2008/03/21 v1.1r Russian support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count122
+\U@D=\dimen111
+)
+Package babel Info: Making " an active character on input line 199.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\english.ldf"
+Language: english 2005/03/30 v3.3o English support from the babel system
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pscyr\pscyr.sty"
+Package: pscyr 2002/07/04 v0.4d Cyrillic Type1 fonts as default
+)
+(C:\ProgramData\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2011/08/28 v2.9.1 Sectioning titles
+\ttl@box=\box26
+\beforetitleunit=\skip43
+\aftertitleunit=\skip44
+\ttl@plus=\dimen112
+\ttl@minus=\dimen113
+\ttl@toksa=\toks21
+\titlewidth=\dimen114
+\titlewidthlast=\dimen115
+\titlewidthfirst=\dimen116
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\listingsutf8.sty"
+Package: listingsutf8 2007/11/11 v1.1 Adding support for UTF-8 to listings (HO)
+
+
+(C:\ProgramData\MiKTeX\2.9\tex\latex\listings\listings.sty
+\lst@mode=\count123
+\lst@gtempboxa=\box27
+\lst@token=\toks22
+\lst@length=\count124
+\lst@currlwidth=\dimen117
+\lst@column=\count125
+\lst@pos=\count126
+\lst@lostspace=\dimen118
+\lst@width=\dimen119
+\lst@newlines=\count127
+\lst@lineno=\count128
+\lst@maxwidth=\dimen120
+
+(C:\ProgramData\MiKTeX\2.9\tex\latex\listings\lstmisc.sty
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count129
+\lst@skipnumbers=\count130
+\lst@framebox=\box28
+)
+(C:\ProgramData\MiKTeX\2.9\tex\latex\listings\listings.cfg
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\stringenc.sty"
+Package: stringenc 2010/03/01 v1.8 Converts strings between encodings (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdfescape.sty"
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+\Gread@gobject=\count131
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+(C:\ProgramData\MiKTeX\2.9\tex\latex\ccaption\ccaption.sty
+Package: ccaption 2011/08/07 v3.2c Extended captioning and new floats
+\@contcwidth=\skip45
+\@contindw=\skip46
+\abovelegendskip=\skip47
+\belowlegendskip=\skip48
+\c@newflo@tctr=\count132
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen123
+\extrarowheight=\dimen124
+\NC@list=\toks23
+\extratabsurround=\skip49
+\backup@length=\skip50
+)
+\TX@col@width=\dimen125
+\TX@old@table=\dimen126
+\TX@old@col=\dimen127
+\TX@target=\dimen128
+\TX@delta=\dimen129
+\TX@cols=\count133
+\TX@ftn=\toks24
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count134
+\float@exts=\toks25
+\float@box=\box29
+\@float@everytoks=\toks26
+\@floatcapt=\box30
+))
+(C:\Users\Администратор\Desktop\TSU\Mat1\lab1.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 2.
+LaTeX Font Info:    ... okay on input line 2.
+LaTeX Font Info:    Try loading font information for T2A+faq on input line 2.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pscyr\t2afaq.fd"
+File: t2afaq.fd 2004/09/23 Fontinst v1.914 font definitions for T2A/faq.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 497.92325pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 788.14136pt, 28.45274pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=497.92325pt
+* \textheight=788.14136pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-80.81725pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=5.69046pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\ProgramData\MiKTeX\2.9\tex\latex\unicode\ucsencs.def
+File: ucsencs.def 2003/11/29 Fixes to fontencodings LGR, T3
+)
+\c@lstlisting=\count135
+
+(C:\ProgramData\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count136
+\scratchdimen=\dimen130
+\scratchbox=\box31
+\nofMPsegments=\count137
+\nofMParguments=\count138
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count139
+\MPscratchDim=\dimen131
+\MPnumerator=\count140
+\makeMPintoPDFobject=\count141
+\everyMPtoPDFconversion=\toks28
+)
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 4.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pscyr\t2aftm.fd"
+File: t2aftm.fd 2004/10/14 Fontinst v1.914 font definitions for T2A/ftm.
+)
+(C:\ProgramData\MiKTeX\2.9\tex\latex\unicode\data\uni-4.def
+File: uni-4.def 2004/10/17 UCS: Unicode data U+0400..U+04FF
+)
+(C:\ProgramData\MiKTeX\2.9\tex\latex\unicode\data\uni-33.def
+File: uni-33.def 2004/10/17 UCS: Unicode data U+2100..U+21FF
+)
+(C:\ProgramData\MiKTeX\2.9\tex\latex\unicode\data\uni-0.def
+File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
+)
+LaTeX Font Info:    Calculating math sizes for size <14> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9.79996> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+Overfull \hbox (7.24338pt too wide) in paragraph at lines 11--13
+|  \T2A/ftm/m/n/14 ��-���� ��-���-�� ��-���-��� ��-���-��-�-��-���� ����-��-���
+ ��-��-��� ������-�������. 
+ []
+
+(C:\ProgramData\MiKTeX\2.9\tex\latex\unicode\data\uni-32.def
+File: uni-32.def 2004/10/17 UCS: Unicode data U+2000..U+20FF
+) [2] [3
+
+] [4]
+\c@lc=\count142
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+[5] <LAB1.png, id=20, 493.96545pt x 471.4413pt>
+File: LAB1.png Graphic file (type png)
+ <use LAB1.png>
+Package pdftex.def Info: LAB1.png used on input line 34.
+(pdftex.def)             Requested size: 493.96425pt x 471.44014pt.
+
+<LAB2.png, id=21, 396.7623pt x 381.70605pt>
+File: LAB2.png Graphic file (type png)
+ <use LAB2.png>
+Package pdftex.def Info: LAB2.png used on input line 36.
+(pdftex.def)             Requested size: 396.76132pt x 381.70512pt.
+ [6 <C:/Users/Администратор/Desktop/TSU/Mat1/LAB1.png>]
+<LAB3.png, id=25, 484.08855pt x 689.57625pt>
+File: LAB3.png Graphic file (type png)
+ <use LAB3.png>
+Package pdftex.def Info: LAB3.png used on input line 38.
+(pdftex.def)             Requested size: 484.08736pt x 689.57455pt.
+ [7 <C:/Users/Администратор/Desktop/TSU/Mat1/LAB2.png>]
+<LAB4.png, id=30, 447.3513pt x 380.26065pt>
+File: LAB4.png Graphic file (type png)
+ <use LAB4.png>
+Package pdftex.def Info: LAB4.png used on input line 40.
+(pdftex.def)             Requested size: 447.3502pt x 380.25972pt.
+ [8 <C:/Users/Администратор/Desktop/TSU/Mat1/LAB3.png>]
+<LAB5.png, id=36, 442.7742pt x 457.10776pt>
+File: LAB5.png Graphic file (type png)
+ <use LAB5.png>
+Package pdftex.def Info: LAB5.png used on input line 42.
+(pdftex.def)             Requested size: 442.77312pt x 457.10663pt.
+ [9 <C:/Users/Администратор/Desktop/TSU/Mat1/LAB4.png>]
+<LAB6.png, id=40, 426.8748pt x 403.5075pt>
+File: LAB6.png Graphic file (type png)
+ <use LAB6.png>
+Package pdftex.def Info: LAB6.png used on input line 44.
+(pdftex.def)             Requested size: 426.87375pt x 403.50652pt.
+ [10 <C:/Users/Администратор/Desktop/TSU/Mat1/LAB5.png>]
+<LAB7.png, id=44, 452.4102pt x 434.8245pt>
+File: LAB7.png Graphic file (type png)
+ <use LAB7.png>
+Package pdftex.def Info: LAB7.png used on input line 46.
+(pdftex.def)             Requested size: 452.40909pt x 434.82341pt.
+ [11 <C:/Users/Администратор/Desktop/TSU/Mat1/LAB6.png>]
+<LAB8.png, id=49, 428.44064pt x 450.36255pt>
+File: LAB8.png Graphic file (type png)
+ <use LAB8.png>
+Package pdftex.def Info: LAB8.png used on input line 48.
+(pdftex.def)             Requested size: 428.43959pt x 450.36145pt.
+ [12 <C:/Users/Администратор/Desktop/TSU/Mat1/LAB7.png>] [13 <C:/U
+sers/Администратор/Desktop/TSU/Mat1/LAB8.png>]
+\c@N=\count143
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 243.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pscyr\ot1ftm.fd"
+File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
+) [14
+
+] [15]
+Overfull \hbox (2.93646pt too wide) in paragraph at lines 243--243
+ [] 
+ []
+
+[16] [17] [18] [19] [20] [21
+
+] <SCR1.png, id=84, 483.8075pt x 169.63374pt>
+File: SCR1.png Graphic file (type png)
+
+<use SCR1.png>
+Package pdftex.def Info: SCR1.png used on input line 253.
+(pdftex.def)             Requested size: 483.80632pt x 169.63332pt.
+ <SCR2.png, id=85, 483.8075pt x 336.25626pt>
+File: SCR2.png Graphic file (type png)
+ <use SCR2.png>
+Package pdftex.def Info: SCR2.png used on input line 256.
+(pdftex.def)             Requested size: 483.80632pt x 336.25543pt.
+
+[22
+
+ <C:/Users/Администратор/Desktop/TSU/Mat1/SCR1.png> <C:/Users/Ад
+министратор/Desktop/TSU/Mat1/SCR2.png>] [23]
+(C:\Users\Администратор\Desktop\TSU\Mat1\lab1.aux) ) 
+Here is how much of TeX's memory you used:
+ 6864 strings out of 494045
+ 89493 string characters out of 3146017
+ 163583 words of memory out of 3000000
+ 10057 multiletter control sequences out of 15000+200000
+ 13732 words of font info for 26 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 33i,10n,34p,1319b,664s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/enc/t2a.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts
+/type1/public/pscyr/antiq6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmmi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmmi12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/p
+scyr/times.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/pscyr/time
+sbd.pfb>
+Output written on lab1.pdf (23 pages, 1965373 bytes).
+PDF statistics:
+ 113 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+
